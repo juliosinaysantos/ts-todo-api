@@ -1,0 +1,27 @@
+{
+  "name": "ts-todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosinaysantos/ts-todo-api.git"
+  },
+  "keywords": [
+    "Node.js",
+    "TypeScript",
+    "API",
+    "Prisma",
+    "PostgreSQL"
+  ],
+  "author": "Julio Sinay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliosinaysantos/ts-todo-api/issues"
+  },
+  "homepage": "https://github.com/juliosinaysantos/ts-todo-api#readme",
+  "engines": {
+    "node": ">= 16.5.0"
+  }
+}
